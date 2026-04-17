@@ -1,4 +1,4 @@
-const labTestService = require("../services/labTest.service");
+const labTestService = require("../services/LabTest.service");
 
 const createLabTest = async (req, res) => {
   try {
